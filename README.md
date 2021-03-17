@@ -40,9 +40,9 @@
 4. Implement order management
 
 ### Additional features:
-● Introduce geo features: collect consumer address during registration and save it in DB;
+> Introduce geo features: collect consumer address during registration and save it in DB;
 show distance from current courier location to this ‘destination’ in order list; sort orders
 by distance
-● Introduce monitoring with Graphite / Grafana
-● Perform load test
+> Introduce monitoring with Graphite / Grafana
+> Perform load test
 
